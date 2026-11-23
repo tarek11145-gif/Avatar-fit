@@ -42,3 +42,4 @@ next-env.d.ts
 
 # fichiers IA copiés à l installation
 /public/mp
+!.env.example
